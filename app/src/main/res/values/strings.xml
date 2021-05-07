@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Matriz 3x3</string>
+    <string name="app_name">Sistema 3x3</string>
     <string name="editdefault">0</string>
     <string name="resultado">Resultado</string>
     <string name="titulo">Matriz</string>
