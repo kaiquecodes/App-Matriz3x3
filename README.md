@@ -1,4 +1,4 @@
-# App-Matriz3x3
+# App-Sistema3x3
 Projeto de uma Calculadora de Sistemas Lineares 3x3 utilizando a Regra de Cramer.
 # Exemplo de Uso
 
