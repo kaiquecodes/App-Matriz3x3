@@ -1,6 +1,6 @@
-# App-Sistema3x3
-Projeto de uma Calculadora de Sistemas Lineares 3x3 utilizando a Regra de Cramer.
-# Exemplo de Uso
+# App-Systems3x3
+Design of a 3x3 Linear Systems Calculator using Cramer's Rule.
+# Interface
 
 ![Matriz3x3](https://github.com/kaiquecodes/App-Matriz3x3/blob/main/prints/tela1.gif)
 
