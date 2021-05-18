@@ -1,5 +1,19 @@
 package com.treinamento.matriz3x3;
 
+/*
+ ************************************************************
+ Programa: App-Systems3x3
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê a matriz aumentada de um sistema linear e
+ retorna os valores das variáveis do sistema. 
+ Utilizando a Regra de Cramer.
+ 
+ 20/05/2020
+ ************************************************************
+ */
+
 public class Cramer {
 
     public static double valorX(double[][] m) {
