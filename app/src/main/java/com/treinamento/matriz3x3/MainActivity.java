@@ -13,6 +13,20 @@ import android.widget.Toast;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
+/*
+ ************************************************************
+ Programa: App-Systems3x3
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê a matriz aumentada de um sistema linear e
+ retorna os valores das variáveis do sistema. 
+ Utilizando a Regra de Cramer.
+ 
+ 20/05/2020
+ ************************************************************
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText[] elem = new EditText[12];
